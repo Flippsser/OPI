@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\choice_variant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|solutionrelative:lab_05ex1\\choice_variant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\get_ASCII.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|solutionrelative:lab_05ex1\\get_ASCII.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\get_ASCII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|solutionrelative:lab_05ex1\\get_ASCII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\calculate_diff_hi_lo_en.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|solutionrelative:lab_05ex1\\calculate_diff_hi_lo_en.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\calculate_diff_hi_lo_en.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{741C808C-C37E-49B0-81DC-485068B7E3B2}|lab_05ex1\\lab_05ex1.vcxproj|solutionrelative:lab_05ex1\\calculate_diff_hi_lo_en.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "get_ASCII.h",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\get_ASCII.h",
+              "RelativeDocumentMoniker": "lab_05ex1\\get_ASCII.h",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\get_ASCII.h",
+              "RelativeToolTip": "lab_05ex1\\get_ASCII.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T12:47:10.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "get_ASCII.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\get_ASCII.cpp",
+              "RelativeDocumentMoniker": "lab_05ex1\\get_ASCII.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\get_ASCII.cpp",
+              "RelativeToolTip": "lab_05ex1\\get_ASCII.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T12:37:59.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculate_diff_hi_lo_en.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\calculate_diff_hi_lo_en.cpp",
+              "RelativeDocumentMoniker": "lab_05ex1\\calculate_diff_hi_lo_en.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\calculate_diff_hi_lo_en.cpp",
+              "RelativeToolTip": "lab_05ex1\\calculate_diff_hi_lo_en.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T09:10:51.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "calculate_diff_hi_lo_en.h",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\calculate_diff_hi_lo_en.h",
+              "RelativeDocumentMoniker": "lab_05ex1\\calculate_diff_hi_lo_en.h",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\calculate_diff_hi_lo_en.h",
+              "RelativeToolTip": "lab_05ex1\\calculate_diff_hi_lo_en.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T09:09:13.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "choice_variant.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\choice_variant.cpp",
+              "RelativeDocumentMoniker": "lab_05ex1\\choice_variant.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\\u041E\u041F\u0418\\LAB_07\\lab_05ex1\\lab_05ex1\\choice_variant.cpp",
+              "RelativeToolTip": "lab_05ex1\\choice_variant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T14:11:39.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  CASE1.cpp
+  CASE2.cpp
+  CASE3.cpp
+C:\Users\Misha\Desktop\FIT\ОПИ\LAB_06\lab_05ex1\lab_05ex1\CASE3.cpp(7,17): warning C4101: b: неиспользованная локальная переменная
+  lab_05ex1.cpp
+  Создание кода...
+  lab_05ex1.vcxproj -> C:\Users\Misha\Desktop\FIT\ОПИ\LAB_06\lab_05ex1\x64\Debug\lab_05ex1.exe
